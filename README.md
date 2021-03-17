@@ -4,4 +4,4 @@ I'm currently using React.js and Flask to build web services during my free time
 
 I am also interested in arts and graphic design. Currently I picked up digital painting to further expand on a hobby of painting I had since the age of 5. Apart from painting, I also use my time to take cityscape photographs within New York City.
 
-To view my current portfolio, please visit ![https://www.ahmadfarhanishraq.com]
+To view my current portfolio, please visit (https://www.ahmadfarhanishraq.com)
