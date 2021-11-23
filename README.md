@@ -1,6 +1,6 @@
 # Ahmad Farhan Ishraq
 
-I am an incoming graduate student at NYU Tandon pursuing a masters in Computer Engineering. Previously in my undergraduate program at Baruch, I majored in Information Systems with a minor in Math. I am passionate about building things, particularly web applications and softwares.
+I am a graduate student at NYU Tandon pursuing a masters in Computer Engineering. Previously in my undergraduate program at Baruch, I majored in Information Systems with a minor in Math. I am passionate about building things, particularly web applications and softwares.
 
 I'm currently using React.js and Flask to build web services during my free time. I'm passionate about technology and its power to transform our lives in the wake of the new decade. While I value the software's technical aspects, I also emphasize and constantly seek to learn how to make software more user-friendly and have the most impact in our lives. It is important for me to think outside the box and to bring creativity in solving problems.
 
