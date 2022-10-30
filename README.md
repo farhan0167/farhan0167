@@ -1,9 +1,9 @@
 # Ahmad Farhan Ishraq
 
-I am a graduate student at NYU Tandon pursuing a masters in Computer Engineering. Previously in my undergraduate program at Baruch, I majored in Information Systems with a minor in Math. I am passionate about building things, particularly web applications and softwares.
+I am a final-year MS student at NYU Tandon studying Computer Engineering. My interests are in the areas of software development/ software engineering and machine learning. 
 
-I'm currently using React.js and Flask to build web services during my free time. I'm passionate about technology and its power to transform our lives in the wake of the new decade. While I value the software's technical aspects, I also emphasize and constantly seek to learn how to make software more user-friendly and have the most impact in our lives. It is important for me to think outside the box and to bring creativity in solving problems.
+Currently, I am working as a full-stack web developer at the Endless Frontier Labs at NYU Stern. I am migrating the department's old web application to a newly designed application. I also work with the office to solve their day-to-day operational challenges by implementing software solutions that make our work more efficient. 
 
-I am also interested in arts and graphic design. Currently I picked up digital painting to further expand on a hobby of painting I had since the age of 5. Apart from painting, I also use my time to take cityscape photographs within New York City.
+I have experience building web applications and tools in Python, Javascript, React, Node. As part of my graduate education, I have experience building machine learning/ deep learning models with a focus in computer vision, NLP and graph neural networks. I also like to break things I make, such as mounting adversarial attacks on neural networks and then securing them. I also study network design (Data Centers) and network security, with exposure to topology design and implementation, TCP/IP, Key Distribution, and Cloud Computing.
 
 To view my current portfolio, please visit [the following website](https://www.ahmadfarhanishraq.com)
