@@ -6,4 +6,4 @@ Currently, I am working as a full-stack web developer at the Endless Frontier La
 
 I have experience building web applications and tools in Python, Javascript, React, Node. As part of my graduate education, I have experience building machine learning/ deep learning models with a focus in computer vision, NLP and graph neural networks. I also like to break things I make, such as mounting adversarial attacks on neural networks and then securing them. I also study network design (Data Centers) and network security, with exposure to topology design and implementation, TCP/IP, Key Distribution, and Cloud Computing.
 
-To view my current portfolio, please visit [the following website](https://www.ahmadfarhanishraq.com)
+To view my current portfolio, please visit [the following website](https://www.portfolio.ahmadfarhanishraq.com)
